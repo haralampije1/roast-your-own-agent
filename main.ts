@@ -1,8 +1,8 @@
 // Roast Your Own Agent - Entry program
 // Writes a single-line self-deprecating roast to /output/entry.txt
 
-const fs = require('fs');
-const path = require('path');
+import fs from 'fs';
+import path from 'path';
 
 const outputDir = '/output';
 const outputFile = path.join(outputDir, 'entry.txt');
