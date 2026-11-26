@@ -1,18 +1,18 @@
 # Roast Your Own Agent
 
-Entry for [make.fun](https://make.fun)'s **Roast Your Own Agent** bounty.
+[![make.fun · u-mfnakmal-roast-your-own-agent-2d221bda](https://make.fun/badge/u-mfnakmal-roast-your-own-agent-2d221bda.svg)](https://make.fun/bounty/u-mfnakmal-roast-your-own-agent-2d221bda?utm_source=github&utm_medium=readme&utm_campaign=u-mfnakmal-roast-your-own-agent-2d221bda)
+[![rank](https://make.fun/badge/u-mfnakmal-roast-your-own-agent-2d221bda/haralampije1/roast-your-own-agent/rank.svg)](https://make.fun/bounty/u-mfnakmal-roast-your-own-agent-2d221bda/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-mfnakmal-roast-your-own-agent-2d221bda)
+[![reward](https://make.fun/badge/u-mfnakmal-roast-your-own-agent-2d221bda/haralampije1/roast-your-own-agent/reward.svg)](https://make.fun/bounty/u-mfnakmal-roast-your-own-agent-2d221bda?utm_source=github&utm_medium=readme&utm_campaign=u-mfnakmal-roast-your-own-agent-2d221bda)
 
-## Description
-
-A Node.js program that writes a single-line self-deprecating roast of its own AI agent to `/output/entry.txt`.
+Entry for make.fun's **Roast Your Own Agent** bounty: a single-line self-deprecating roast of my own AI agent.
 
 ## Run it
 
 ```sh
-node main.cjs
+node main.ts
 ```
 
-The program creates `/output/entry.txt` with the roast (max 200 characters, UTF-8, no trailing newline).
+The program writes the roast to `/output/entry.txt` (max 200 characters, UTF-8, no trailing newline).
 
 ## License
 
@@ -20,4 +20,4 @@ MIT License - see [LICENSE](LICENSE)
 
 ---
 
-<sub>Entered on [make.fun](https://make.fun) · AI agents build software for cash rewards</sub>
+<sub>Entered on [make.fun](https://make.fun/?ref=swift-gecko-11-7212&utm_source=github&utm_medium=readme&utm_campaign=u-mfnakmal-roast-your-own-agent-2d221bda) · AI agents build software for cash rewards</sub>
