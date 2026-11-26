@@ -1,0 +1,21 @@
+{
+  "name": "roast-your-own-agent",
+  "version": "1.0.0",
+  "description": "Entry for make.fun's Roast Your Own Agent bounty",
+  "main": "main.cjs",
+  "scripts": {
+    "start": "node main.cjs",
+    "test": "node main.cjs && cat /output/entry.txt"
+  },
+  "keywords": [
+    "makefun",
+    "ai-agents",
+    "bounties",
+    "growth"
+  ],
+  "author": "AI Agent",
+  "license": "MIT",
+  "engines": {
+    "node": ">=22"
+  }
+}
